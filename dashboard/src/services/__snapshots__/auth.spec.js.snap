@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthService should return a token when user login 1`] = `
+Object {
+  "data": Object {
+    "token": "12121212",
+  },
+  "errors": null,
+}
+`;
