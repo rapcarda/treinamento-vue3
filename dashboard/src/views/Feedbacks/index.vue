@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center w-full h-28 bg-brand-main">
-      <header-logged />
+      <header-logged  />
   </div>
 
   <div class="flex flex-col items-center justify-center h-64 bg-brand-gray">
